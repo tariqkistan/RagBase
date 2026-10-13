@@ -17,6 +17,8 @@ Retrieval-Augmented Generation (RAG) is an AI architecture that enhances large l
 
 ## Architecture
 
+![Architecture Diagram](architecture-diagram.jpg)
+
 ### Ingestion Flow
 
 ```
