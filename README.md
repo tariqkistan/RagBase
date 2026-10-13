@@ -1,5 +1,9 @@
 # RAGbase
 
+[![CI Status](https://github.com/tariqkistan/RagBase/actions/workflows/ci.yml/badge.svg)](https://github.com/tariqkistan/RagBase/actions/workflows/ci.yml)
+[![Python 3.11](https://img.shields.io/badge/python-3.11-blue)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A production-quality Retrieval-Augmented Generation (RAG) pipeline built with Python, OpenAI embeddings, pgvector, and FastAPI. Includes a comprehensive retrieval evaluation suite measuring precision and recall.
 
 ## What is RAG?
