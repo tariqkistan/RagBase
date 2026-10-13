@@ -1,0 +1,32 @@
+[
+  {
+    "query_id": "eval_001",
+    "question": "What should I say when I first answer a call from a debt collector?",
+    "relevant_sources": ["compliance_guide.txt"],
+    "relevant_content_keywords": ["initial disclosure", "identify themselves", "agency name", "outstanding debt"]
+  },
+  {
+    "query_id": "eval_002",
+    "question": "How can I verify that a debt is legitimate?",
+    "relevant_sources": ["faq.txt", "compliance_guide.txt"],
+    "relevant_content_keywords": ["verify", "legitimate", "written verification", "documentation", "dispute"]
+  },
+  {
+    "query_id": "eval_003",
+    "question": "What phrases are debt collectors forbidden from using?",
+    "relevant_sources": ["compliance_guide.txt"],
+    "relevant_content_keywords": ["forbidden phrases", "threatening", "arrested", "jail", "seize property", "prohibited"]
+  },
+  {
+    "query_id": "eval_004",
+    "question": "What are the POPIA consent requirements for debt collection?",
+    "relevant_sources": ["compliance_guide.txt"],
+    "relevant_content_keywords": ["POPIA", "consent", "explicit consent", "personal information", "withdraw consent"]
+  },
+  {
+    "query_id": "eval_005",
+    "question": "What happens at the end of a debt collection process?",
+    "relevant_sources": ["faq.txt", "compliance_guide.txt"],
+    "relevant_content_keywords": ["prescribed", "legal action", "court judgment", "payment arrangement", "collection process"]
+  }
+]

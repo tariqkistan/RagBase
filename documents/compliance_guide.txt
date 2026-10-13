@@ -1,0 +1,132 @@
+DEBT COLLECTION COMPLIANCE GUIDE
+
+NCA (National Credit Act) Requirements
+========================================
+
+The National Credit Act regulates debt collection practices in South Africa. Key requirements:
+
+1. Disclosure Requirements
+- Debt collectors must identify themselves and their agency
+- Must provide the debtor with written notice of the debt amount
+- Must disclose the original creditor's name
+- Must provide a breakdown of principal, interest, and fees
+
+2. Communication Restrictions
+- Calls may only be made between 8:00 AM and 8:00 PM on weekdays
+- Calls may only be made between 9:00 AM and 1:00 PM on Saturdays
+- No calls on Sundays or public holidays
+- Maximum of 3 calls per day to the same debtor
+- Maximum of 10 calls per week to the same debtor
+
+3. Prohibited Practices
+- Threatening legal action without intent to proceed
+- Impersonating legal officials or law enforcement
+- Misrepresenting the amount owed
+- Adding unauthorized fees or charges
+- Harassment or intimidation tactics
+- Contacting third parties about the debt (except for tracing purposes)
+
+POPIA (Protection of Personal Information Act) Consent Rules
+===============================================================
+
+POPIA governs the processing of personal information in South Africa:
+
+1. Consent Requirements
+- Must obtain explicit consent before processing personal information
+- Consent must be specific, informed, and freely given
+- Must allow debtors to withdraw consent at any time
+- Must keep records of consent obtained
+
+2. Data Protection
+- Personal information must be processed lawfully and fairly
+- Must only collect information necessary for the purpose
+- Must implement adequate security measures
+- Must retain information only as long as necessary
+- Must allow debtors to access their information on request
+
+3. Communication Consent
+- Must record consent for SMS communications
+- Must record consent for email communications
+- Must record consent for automated calls
+- Must respect opt-out requests immediately
+
+Forbidden Phrases and Tactics
+=============================
+
+The following phrases and tactics are strictly prohibited:
+
+1. Threatening Language
+- "We will have you arrested"
+- "The police are on their way"
+- "You will go to jail for this"
+- "We will seize your property immediately"
+- "You will lose your job"
+
+2. Misleading Statements
+- "This is your final notice" (when it's not)
+- "We are taking legal action today" (without intent)
+- "Your credit score will be destroyed" (exaggeration)
+- "We can garnish your wages" (without court order)
+- "This will affect your immigration status" (irrelevant threats)
+
+3. Harassment Tactics
+- Calling repeatedly in short succession
+- Calling at unreasonable hours
+- Using profanity or abusive language
+- Shouting or yelling at debtors
+- Interrupting the debtor repeatedly
+
+4. Privacy Violations
+- Discussing the debt with family members
+- Leaving messages with third parties
+- Posting about the debt on social media
+- Contacting the debtor's employer (except for verification)
+- Threatening to contact the debtor's employer
+
+Required Disclosures
+===================
+
+Every debt collection call must include:
+
+1. Initial Disclosure
+- "My name is [name] calling from [agency name]"
+- "I am calling regarding an outstanding debt"
+- "The original creditor is [creditor name]"
+- "The current balance is [amount]"
+
+2. Rights Disclosure
+- "You have the right to request written verification of this debt"
+- "You have the right to dispute this debt within 30 days"
+- "You have the right to request payment arrangements"
+- "You have the right to file a complaint with the NCR"
+
+3. Privacy Disclosure
+- "Your call may be recorded for quality and training purposes"
+- "Your information is protected under POPIA"
+- "We will not share your information with unauthorized parties"
+
+Documentation Requirements
+=========================
+
+All debt collection activities must be documented:
+
+1. Call Records
+- Date and time of call
+- Duration of call
+- Number dialed
+- Agent name and ID
+- Outcome of call
+- Next action required
+
+2. Consent Records
+- Date consent obtained
+- Method of consent (phone, email, SMS)
+- Specific consent given
+- Any withdrawal of consent
+
+3. Complaint Records
+- Date of complaint
+- Nature of complaint
+- Resolution steps taken
+- Final outcome
+- Follow-up actions

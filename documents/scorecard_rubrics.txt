@@ -1,0 +1,76 @@
+DEBT COLLECTION SCORECARD RUBRICS
+
+C01: Professional Conduct
+Score 1-5 based on:
+- Maintains professional tone throughout call
+- Uses appropriate language and avoids aggressive behavior
+- Demonstrates empathy while maintaining firm boundaries
+- Follows established communication protocols
+- Handles difficult situations with composure
+
+Rubric:
+5: Exceeds expectations - Professional at all times, handles extreme situations gracefully
+4: Meets expectations - Professional in most interactions, minor lapses
+3: Acceptable - Generally professional but needs improvement in stress situations
+2: Below expectations - Frequent unprofessional behavior or tone
+1: Unacceptable - Consistently unprofessional, aggressive, or inappropriate
+
+C02: Legal Compliance
+Score 1-5 based on:
+- Adheres to NCA regulations at all times
+- Follows POPIA consent requirements
+- Avoids forbidden phrases and tactics
+- Provides required disclosures accurately
+- Documents compliance properly
+
+Rubric:
+5: Exceeds expectations - Perfect compliance record, proactively identifies issues
+4: Meets expectations - Full compliance with all regulations
+3: Acceptable - Minor compliance issues, corrected promptly
+2: Below expectations - Multiple compliance violations
+1: Unacceptable - Severe or repeated legal violations
+
+C03: Communication Effectiveness
+Score 1-5 based on:
+- Clearly explains debt details and payment options
+- Listens actively to debtor concerns
+- Provides accurate information consistently
+- Follows up appropriately on agreements
+- Maintains clear documentation of communications
+
+Rubric:
+5: Exceeds expectations - Exceptional clarity, resolves complex issues effectively
+4: Meets expectations - Clear communication, good information flow
+3: Acceptable - Generally clear but some confusion or repetition needed
+2: Below expectations - Poor communication, frequent misunderstandings
+1: Unacceptable - Ineffective communication, misleading information
+
+C04: Problem Resolution
+Score 1-5 based on:
+- Identifies root causes of payment issues
+- Offers appropriate solutions based on debtor situation
+- Negotiates realistic payment arrangements
+- Escalates complex cases appropriately
+- Achieves sustainable resolutions
+
+Rubric:
+5: Exceeds expectations - Solves complex problems, creates lasting solutions
+4: Meets expectations - Effective problem solving, good resolution rate
+3: Acceptable - Adequate problem solving, some recurring issues
+2: Below expectations - Poor problem solving, inadequate solutions
+1: Unacceptable - Fails to resolve problems, creates new issues
+
+C05: Documentation Quality
+Score 1-5 based on:
+- Completes all required documentation accurately
+- Records call details thoroughly
+- Updates system promptly
+- Maintains organized records
+- Ensures audit trail completeness
+
+Rubric:
+5: Exceeds expectations - Exceptional documentation, goes beyond requirements
+4: Meets expectations - Complete and accurate documentation
+3: Acceptable - Documentation mostly complete with minor errors
+2: Below expectations - Incomplete or inaccurate documentation
+1: Unacceptable - Critical documentation failures or missing records
